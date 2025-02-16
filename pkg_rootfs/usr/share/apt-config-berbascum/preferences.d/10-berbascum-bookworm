@@ -1,0 +1,3 @@
+Package: *
+Pin: release o=berbascum, n=bookworm
+Pin-Priority: 1060
