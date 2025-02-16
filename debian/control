@@ -1,0 +1,15 @@
+Source: apt-config-berbascum-bookworm
+Maintainer: berbascum <berbascum@ticv.cat>
+Section: misc
+Priority: optional
+Build-Depends: debhelper (>= 10),
+               debhelper-compat (= 13),
+Standards-Version: 4.5.0.3
+
+Package: apt-config-berbascum-bookworm
+Architecture: all
+Pre-Depends: apt,
+Depends: ${misc:Depends},
+         ca-certificates,
+         apt-keyrings-berbascum,
+Description: APT configs for Berbascum's github bookworm apt repo
