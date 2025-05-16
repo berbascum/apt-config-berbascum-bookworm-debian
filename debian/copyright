@@ -1,6 +1,6 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
-Upstream-Name: apt-config-berbascum-bookworm
-Source: https://github.com/berbascum/apt-config-berbascum-bookworm
+Upstream-Name: apt-config-berbascum-bookworm-debian
+Source: https://github.com/berbascum/apt-config-berbascum-bookworm-debian
 
 Files: *
 Copyright: 2024 berbascum <berbascum@ticv.cat>

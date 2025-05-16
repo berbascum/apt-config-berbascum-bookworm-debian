@@ -1,0 +1,2 @@
+/usr/share/apt-config-berbascum/sources.list.d/berbascum-bookworm-debian.sources /etc/apt/sources.list.d/berbascum-bookworm-debian.sources
+/usr/share/apt-config-berbascum/preferences.d/10-berbascum-bookworm-debian /etc/apt/preferences.d/10-berbascum-bookworm-debian

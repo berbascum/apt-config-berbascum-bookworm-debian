@@ -1,5 +1,5 @@
 Architectures: arm64,amd64,all
-Components: main
+Components: debian
 Suites: bookworm
 Uris:  https://berbascum.github.io/berb-apt-git-repo
 Types: deb

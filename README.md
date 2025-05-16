@@ -1,1 +1,1 @@
-# apt-config-berbascum-bookworm
+# apt-config-berbascum-bookworm-debian
